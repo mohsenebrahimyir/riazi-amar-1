@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ریاضی و آمار (۱)",
+    "section": "",
+    "text": "پیش گفتار\nبه همراه این کتاب می‌توانید مهارت‌های ریاضی و آمار خود را توسعه دهید. سعی کنید بعد از هر آموزش تمرینات مربوط به آن را انجام دهید. نظرات و پیشنهادات خود را می‌توانید از طریق ایمیل mohsenebrahimy.ir@gmail.com برای بهبود کتاب به نویسنده ارسال کنید تا در هر بروزرسانی اصلاحات صورت گیرد. این نسخه در تاریخ ۱۴۰۲-۷-۲۹ بروزرسانی شده است.\n\nلینک:\n\nکتاب\nگیت هاب\nدوره\n\n\n\nامیدوارم این کتاب برایتان مفید باشد.\n\n\nمحسن ابراهیمی\nhttps://www.mohsenebrahimy.ir\nhttps://eitaa.com/mohsenebrahimyir"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "مقدمه",
+    "section": "",
+    "text": "سلام"
+  },
+  {
+    "objectID": "chapters/01/L01.html",
+    "href": "chapters/01/L01.html",
+    "title": "1  معادله و مسائل توصیفی",
+    "section": "",
+    "text": "سلام"
+  },
+  {
+    "objectID": "chapters/01/L02.html",
+    "href": "chapters/01/L02.html",
+    "title": "2  حل معادله درجه ۲ و کاربردها",
+    "section": "",
+    "text": "سلام"
+  },
+  {
+    "objectID": "chapters/01/L03.html",
+    "href": "chapters/01/L03.html",
+    "title": "3  معادله‌های شامل عبارت‌های گویا",
+    "section": "",
+    "text": "سلام"
+  },
+  {
+    "objectID": "chapters/01/C01.html#یادآوری",
+    "href": "chapters/01/C01.html#یادآوری",
+    "title": "فصل اول: معادله درجه دوم",
+    "section": "یادآوری",
+    "text": "یادآوری\n\nمربع یا مجذور\nتوان دوم یک عدد را مربع یا مجذور آن می‌نامیم.\n\\(x^2 = x \\times x\\)\n\n\nمربع عدد 7 را محاسبه کنید.\n\n\nنمایش پاسخ\n\n\n\\(7^2 = 7 \\times 7 = 49\\)\n\n\n\n\nمجذور عدد 5 را محاسبه کنید.\n\n\nنمایش پاسخ\n\n\n\\(5^2 = 5 \\times 5 = 25\\)\n\n\n\n\nخاصیت صفر:\nاگر حاصلضرب دو عدد برابر صفر شود آنگاه حداقل یکی از آن اعداد برابر صفر است.\n\n\\(a \\times b = 0 \\Longrightarrow a = 0, b = 0\\)\n\\(0 \\times x = 0, x \\times 0 = 0, 0 \\times 0 = 0\\)"
+  }
+]
